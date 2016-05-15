@@ -1,2 +1,2 @@
-# impact-platform-memcached
+# Impact Platform: Memcached
 Docker container for Memcached
